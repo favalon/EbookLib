@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="dc057c54-4ef6-4463-be40-07b926078db8"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.29.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>One Hundred Years of Solitude</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="0" class="chapter">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="text/part0000.html#0-8828d3afb5e44e8cbc0a539dbb8c8348"/>
+    </navPoint>
+  </navMap>
+</ncx>
